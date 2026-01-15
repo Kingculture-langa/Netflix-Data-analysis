@@ -3,12 +3,12 @@ This Project explores and analyses Netflix’s catalog data. The project applies
 
 
 # Project Overview
-1.Define objective
-2.Data collactiomn
-3.Data cleaning and processing 
-4.Exploratory Data Anaylsis
-5.Statistical Analyisis
-6.Visualization And Communication 
+#### 1.Define objective
+#### 2.Data collactiomn
+#### 3.Data cleaning and processing 
+#### 4.Exploratory Data Anaylsis
+#### 5.Statistical Analyisis
+#### 6.Visualization And Communication 
 
 
 
