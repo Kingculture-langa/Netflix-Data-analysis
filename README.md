@@ -15,4 +15,4 @@ This Project explores and analyses Netflix’s catalog data. The project applies
 ##	1. Objective:
 Analyze Netflix’s catalog to uncover trends in content distribution, genres, ratings, and country of origin.
 ##  2. Data collection 
-Data has been source from Kaddle 
+ This site was built using [Kaddle Data sorce](https:kaggle/input/netflix-data-cleaning-analysis-and-visualization ).
